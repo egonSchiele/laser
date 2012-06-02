@@ -4,6 +4,7 @@
 #include <vector>
 #include <exception>
 #include <stdexcept>
+#include <stdint.h>
 #include "ruby.h"
 
 namespace Laser {

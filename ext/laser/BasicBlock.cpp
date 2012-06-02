@@ -1,5 +1,6 @@
 #include "BasicBlock.h"
 #include "ruby.h"
+#include <stdint.h>
 
 VALUE rb_mLaser;
 VALUE rb_mAnalysis;

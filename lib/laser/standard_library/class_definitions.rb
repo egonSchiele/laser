@@ -171,7 +171,6 @@ module Kernel
   end
 end
 
-require 'kernel'
 require 'basic_object'
 require 'nil_false_true'
 require 'exceptions'
